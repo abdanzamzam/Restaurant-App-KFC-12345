@@ -12,3 +12,7 @@ Demo Client: https://restaurant-app-kfc12345.web.app/
 4. History
 5. Upload image/ preview
 6. Logout
+
+### Preview
+1. Login Page
+![My image](https://github.com/abdanzamzam/Restaurant-App-KFC-12345/blob/main/Preview/Screenshot%201.png)
