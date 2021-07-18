@@ -1,5 +1,5 @@
 # Restaurant App KFC 12345
-Restaurant App KFC 12345
+In this case study I used node.js, sequelize, express.js, multer, third party API imageKit, vue.js, vuesax, parcel bundler, postgreSql, heroku (backend hosting), firebase (frontend hosting).
 
 Server API: https://restaurant-app-kfc12345.herokuapp.com/
 
