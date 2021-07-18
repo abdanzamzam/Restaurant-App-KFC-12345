@@ -1,0 +1,38 @@
+[
+    {
+        "name": "9 Pcs Bucket",
+        "description": "9 Pcs Bucket Description",
+        "price": 139545,
+        "imgUrl": "https://ik.imagekit.io/abdanzamzam/9_Pcs_Bucket_Dl-FOTu9f.jpg",
+        "status": "active",
+        "authorId": 1,
+        "categoryId": 1
+    },
+    {
+        "name": "Super Family",
+        "description": "Super Family Description",
+        "price": 121364,
+        "imgUrl": "https://ik.imagekit.io/abdanzamzam/Super_Family_yyDUwRBzs.png",
+        "status": "active",
+        "authorId": 1,
+        "categoryId": 1
+    },
+    {
+        "name": "Winger Bucket",
+        "description": "Winger Bucket Description",
+        "price": 92727,
+        "imgUrl": "https://ik.imagekit.io/abdanzamzam/Winger_Bucket_56xQ8AIdy.jpg",
+        "status": "active",
+        "authorId": 1,
+        "categoryId": 1
+    },
+    {
+        "name": "Snack Bucket",
+        "description": "Snack Bucket Description",
+        "price": 71818,
+        "imgUrl": "https://ik.imagekit.io/abdanzamzam/Snack_Bucket_4VTW2cMq0.jpg",
+        "status": "active",
+        "authorId": 1,
+        "categoryId": 1
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Abdan",
+        "email": "abdan@kfc.co.id",
+        "password": "abdan123",
+        "role": "admin"
+    },
+    {
+        "name": "Aslam",
+        "email": "aslam@staff.kfc.co.id",
+        "password": "aslam123",
+        "role": "staff"
+    }
+]
