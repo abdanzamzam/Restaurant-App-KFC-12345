@@ -5,7 +5,7 @@ Server API: https://restaurant-app-kfc12345.herokuapp.com/
 
 Demo Client: https://restaurant-app-kfc12345.web.app/
 
-### Fiture:
+### Features:
 1. Login
 2. Register
 3. CRUD Food
